@@ -3,7 +3,6 @@ import pandas as pd
 import yfinance as yf
 import os
 import openai
-import requests
 import io
 from datetime import datetime
 
