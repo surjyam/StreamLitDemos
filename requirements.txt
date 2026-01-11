@@ -1,2 +1,2 @@
-import yfinance
-import curl_cffi
+yfinance
+curl_cffi
