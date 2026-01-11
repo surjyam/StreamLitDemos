@@ -1,5 +1,5 @@
 # Run the following command to install the required libraries
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # Run the streamlit app as following
 streamlit run Company_Performance.py
